@@ -1,0 +1,32 @@
+<!--
+  ~ Copyright (c) 2011-present Sonatype, Inc. All rights reserved.
+  ~ Includes the third-party code listed at http://links.sonatype.com/products/clm/attributions.
+  ~ "Sonatype" is a trademark of Sonatype, Inc.
+  -->
+<feature
+    id="com.sonatype.checkstyle_eclipse.feature"
+    label="Sonatype Checkstyle Configuration for Eclipse"
+    version="1.0.0.qualifier"
+    provider-name="Sonatype, Inc."
+    plugin="com.sonatype.checkstyle_eclipse">
+
+  <description url="https://github.com/sonatype/codestyle">
+    Sonatype Checkstyle Configuration for Eclipse
+  </description>
+
+  <copyright url="http://links.sonatype.com/products/clm/eclipse/eula">
+    Copyright (c) 2011-present Sonatype Inc.
+  </copyright>
+
+  <license url="http://www.example.com/license">
+    [Enter License Description here.]
+  </license>
+
+  <plugin
+      id="com.sonatype.checkstyle_eclipse"
+      download-size="0"
+      install-size="0"
+      version="0.0.0"
+      unpack="false"/>
+
+</feature>

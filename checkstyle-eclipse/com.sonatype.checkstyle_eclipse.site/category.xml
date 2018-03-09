@@ -1,0 +1,15 @@
+<!--
+  ~ Copyright (c) 2011-present Sonatype, Inc. All rights reserved.
+  ~ Includes the third-party code listed at http://links.sonatype.com/products/clm/attributions.
+  ~ "Sonatype" is a trademark of Sonatype, Inc.
+  -->
+<site>
+  <!--<feature url="features/com.sonatype.checkstyle_eclipse.feature_1.0.0.qualifier.jar" id="com.sonatype.checkstyle_eclipse.feature"-->
+           <!--version="1.0.0.qualifier">-->
+    <!--<category name="Sonatype Checkstyle Config" />-->
+  <!--</feature>-->
+  <feature id="com.sonatype.checkstyle_eclipse.feature" version="0.0.0">
+    <category name="Sonatype Checkstyle Config" />
+  </feature>
+  <category-def name="Sonatype Checkstyle Config" label="Sonatype Checkstyle Config" />
+</site>
